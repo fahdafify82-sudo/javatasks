@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaBasics/calculator/calculator.iml" filepath="$PROJECT_DIR$/javaBasics/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eraasoftjava.iml" filepath="$PROJECT_DIR$/.idea/eraasoftjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasics/intersection/intersection.iml" filepath="$PROJECT_DIR$/javaBasics/intersection/intersection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasics/min max/min max.iml" filepath="$PROJECT_DIR$/javaBasics/min max/min max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasics/year month/year month.iml" filepath="$PROJECT_DIR$/javaBasics/year month/year month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasics/z compare/z compare.iml" filepath="$PROJECT_DIR$/javaBasics/z compare/z compare.iml" />
+    </modules>
+  </component>
+</project>
