@@ -1,6 +1,8 @@
 public class Student {
-    Student()
+    String name;
+    Student(String name)
     {
-        System.out.println("Hello eraa");
+        this.name=name;
+        System.out.println("Hello, "+name);
     }
 }

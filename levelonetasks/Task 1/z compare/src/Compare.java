@@ -1,4 +1,4 @@
-public class Compare {
+ class Compare {
     int num1,num2,num3,num4;
     Compare(int num1,int num2,int num3,int num4)
     {
@@ -13,10 +13,10 @@ public class Compare {
         double pown2=Math.log(num3)*num4;
         if(pown1>pown2)
         {
-            System.out.print(pown1+" yes");
+            System.out.print("YES");
         }
         else {
-            System.out.print(pown2+" no");
+            System.out.print("NO");
         }
 
     }

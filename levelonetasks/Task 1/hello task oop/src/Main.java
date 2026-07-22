@@ -1,6 +1,13 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
+import java.util.Scanner;
 
-Student student = new Student();
+    public static void main(String[] args) {
+
+
+        Scanner input = new Scanner(System.in);
+
+        String name = input.nextLine();
+
+
+        Student student = new Student(name);
+    }
 }
